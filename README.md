@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murad
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java, Java Spring, Java Spring Boot.
+- 🌱 I’m currently learning Java, Java Spring, and Java Spring Boot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me murad0cs@outlook.com
 
